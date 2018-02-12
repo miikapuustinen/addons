@@ -1,7 +1,7 @@
 ## Blender Autotracker addon
 ![test tag](https://github.com/miikapuustinen/blender_autotracker/blob/master/images/autotracker_screenshot.jpg)
 ### What is it?
-Python addon which introduces autotracking for Blender motion tracking. It automates marker creationg and feature detection, as well tries to cut down amount of bad tracks. It is more suitable for easier shots or can be used in conjunction with supervised tracking.
+Python addon which introduces autotracking for Blender motion tracking. It automates marker creation and feature detection, as well tries to cut down amount of bad tracks. It is more suitable for easier shots or can be used in conjunction with supervised tracking.
 
 ### How to install?
 Drop autotracker.py to blender/scripts/addons/ folder or use User Preferences --> Add-ons Install from file to install.
